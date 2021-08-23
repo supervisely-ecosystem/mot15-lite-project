@@ -1,0 +1,10 @@
+{
+  "name": "MOT15 lite",
+  "description": "6 cutted videos from MOT15",
+  "type": "project",
+  "categories": [
+    "demo"
+  ],
+  "icon": "https://imgur.com/e2HiFPl.png",
+  "icon_cover": true
+}

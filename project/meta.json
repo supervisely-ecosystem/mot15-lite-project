@@ -1,0 +1,24 @@
+{
+    "classes": [
+        {
+            "title": "pedestrian",
+            "shape": "rectangle",
+            "color": "#8A0F4D",
+            "geometry_config": {},
+            "id": 116792,
+            "hotkey": ""
+        }
+    ],
+    "tags": [
+        {
+            "name": "ignore_conf",
+            "value_type": "none",
+            "color": "#8A730F",
+            "id": 27369,
+            "hotkey": "",
+            "applicable_type": "all",
+            "classes": []
+        }
+    ],
+    "projectType": "videos"
+}
